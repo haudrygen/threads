@@ -1,0 +1,16 @@
+{
+  "name": "Threads tasks",
+  "short_name": "Threads",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#bcc1cc",
+  "theme_color": "#3367D6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
